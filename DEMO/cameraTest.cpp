@@ -1,3 +1,14 @@
+/***************AUTHORITY*********************
+ *  cameraTest.cpp  -  The C++ source file of the hikvision Camera DEMO
+ *  
+ *  Copyright (c) 2020-, FOSH Project
+ * 
+ *  SPDX-License-Identifier: Apache-2.0
+ * 
+ *  Change Logs:
+ *  Date           Author            Notes           mail
+ *  2020-11-25     江榕煜     first version   2373180028@qq.com
+ */
 #include "../cameraGetImage.h"
 #include <iostream>
 #include <stdio.h>
